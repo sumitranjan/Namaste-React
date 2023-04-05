@@ -1,0 +1,30 @@
+{
+  "name": "chapter-02-igniting-our-app",
+  "version": "1.0.0",
+  "description": "This is parcel tutorial",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumitranjan/Namaste-React.git"
+  },
+  "author": "Sumit Ranjan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumitranjan/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/sumitranjan/Namaste-React#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "browserslist": "^4.21.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserList": [
+    "last 2 versions"
+  ]
+}
